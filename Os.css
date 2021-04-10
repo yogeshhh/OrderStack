@@ -1,0 +1,266 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat' Medium;
+
+}
+
+header{
+    background-color: white;
+    height: 50px;
+    background-size: cover; 
+}
+
+.logo h3{
+    float: left;
+    font-weight: bold;
+    font-size: 48px;
+}
+
+.dot {
+    color:#F3164D;   
+}
+
+.btn{
+    margin: 0px 9px;
+    height: 64px;
+    width: 211px;
+    background-color:#F3164D;
+    color: white;
+    padding: 4px 14px;
+    border-radius: 10px;
+    font-size: 24px;
+    cursor: pointer;
+    float: right;
+}
+
+ul{
+    float: right;
+    margin: 0px 50px;
+    list-style-type: none;
+    margin-top: 20px;
+}
+
+ul li{
+    display: inline-block;
+}
+
+ul li a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px; 
+}
+
+
+ .main{
+    max-width: 1920px;
+    margin: 25px 50px;
+}
+
+.container{
+    margin-top: 1cm;
+    justify-content: space-around;
+    display: flex;
+    position: relative;
+}
+
+
+ .cards{
+     display: inline-block;
+     background-color: rgb(255, 255, 255);
+     border-radius: 50px;
+     margin: 40px;
+     box-shadow: 22px 22px 22px #888888;
+ }
+
+ .image img{
+     width: 100%;
+     border-radius: 20px;
+     
+ }
+
+ #card1{
+     width: 100%;
+     height: 100%;
+     border-radius: 10px;
+ }
+
+ #card2{
+     height: 50%; 
+     width: 100%;
+     padding: 0cm;
+     border-radius: 10px;
+}
+
+#img2{
+    padding: 20px 30px 70px 30px;
+}
+
+#des1 hr{
+    background-color: #F3164D;
+    width: 20%;
+    height: 0.5px;
+    margin-top: 5px;
+}
+
+#des1 a{
+    color: #F3164D;
+    margin: 400px;
+    margin-top: 0px;
+
+}
+
+#des2 hr{
+    background-color: #F3164D;
+    width: 20%;
+    height: 1.5px;
+    text-align: center;
+    margin: auto;
+}
+
+#three{
+    text-align: center;
+}
+
+#four{
+    text-align: right;
+}
+
+#card3 {
+    width: 67.7%;
+    height: 100px;
+    position: absolute;
+    left: 5.3px;
+    top: 550px;
+
+}
+
+#T1{position: relative;;
+    margin-top: -79px;
+    padding-top: 20px;
+
+    background-color: white;
+    border-radius: 20px 20px 20px 20px;
+}
+
+
+
+#ch{
+    padding-left: 1.5cm;
+}
+
+#S1{
+    color: black;
+    font-size: 15px;
+}
+
+.r{
+    float: right;
+    padding-right: 1.5cm;
+    color: #F3164D;
+}
+
+#t2 h3{
+    color: #F3164D;
+    font-weight: bold;
+    text-align: center;
+    margin-top: -1cm;
+    margin-bottom: 0.3cm
+}
+
+#t2 h4{
+    text-align: center;
+    margin-bottom: 0.2cm;
+}
+
+#des2 p{
+    text-indent: 30px;
+    text-align: center;
+    opacity: 80%;
+    margin-bottom: 3.7cm;
+
+
+}
+
+#two{
+    position: relative;
+    left: -8cm;
+    margin-top: 2cm;
+}
+
+#three{
+    position: relative;
+    left: 10cm;
+    
+}
+
+#four{
+    position: relative;
+    float: right;
+    margin-right: 5cm;
+    margin-bottom: 1cm;
+}
+
+.btn2{
+    margin: -57px -290px;
+    height: 35px;
+    width: 133px;
+    background-color: #F3164D;
+    color: white;
+    padding: 3px 0px;
+    border-radius: 5px;
+    font-size: 20px;
+    cursor: pointer;
+    float: right;
+}
+
+.title hr{
+    background-color: #F3164D;
+    width: 20%;
+    height: 1.5px;
+    margin-top: 5px;
+}
+
+#card3{
+    border-radius: 20px;
+}
+
+#card3 hr{
+    background-color: #F3164D;
+    width: 20%;
+    height: 1.5px;
+    margin-top: 5px;
+}
+#one{
+    text-align: center;
+    margin-left: 10cm;
+}
+
+footer {
+    text-align: center;
+    height: 2.5cm;
+    padding: 15px;
+    padding-bottom: 0px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    
+  }
+
+  #f1{
+      float: left;
+      margin-top: 1.5cm;
+      opacity: 80%;
+  }
+
+  #f4{
+    float: right;
+    
+}
+
+#f3{
+    margin-right: -14cm;
+}
+
+#f2{
+    margin-right: 0.7cm;
+}
